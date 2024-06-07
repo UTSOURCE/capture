@@ -1,0 +1,7 @@
+{
+  "name": "capture",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
